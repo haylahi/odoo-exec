@@ -1,4 +1,4 @@
-FROM clouder/odoo-exec
+FROM clouder/odoo-exec:0.10.1
 MAINTAINER Yannick Buron yannick.buron@gmail.com
 
 USER odoo
